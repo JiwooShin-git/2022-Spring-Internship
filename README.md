@@ -1,2 +1,5 @@
 # 2022-Spring-Internship
-[Class Imbalance]
+
+Applying hierarchy information using below code.
+
+https://github.com/PRIS-CV/Fine-Grained-or-Not.git
